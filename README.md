@@ -6,3 +6,5 @@ Star Master is a one player keyboard game.
 
 Built With
 Phaser 3 (https://phaser.io/)
+
+Created in May 2017
